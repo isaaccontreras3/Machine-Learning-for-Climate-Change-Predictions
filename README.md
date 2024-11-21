@@ -43,6 +43,11 @@ Code was written in Python and executed in Jupyter notebooks.
     - For implementing supervised machine learning models such as K-Nearest Neighbors (KNN), Decision Trees, and Artificial Neural Networks (ANN).
     - For model evaluation with accuracy scores, confusion matrices, and classification reports.
   - **Scipy**: For scientific computing and advanced statistical operations.
+ 
+## Tableau Visualization
+Explore interactive Tableau viz for ClimateWins here:  
+[ClimateWins Tableau](https://public.tableau.com/app/profile/isaac.contreras/viz/ClimateWins-Inter-Tableau/Story1)
+
 
 ## Disclaimer
 The findings are based on historical data and machine learning models, which have limitations and uncertainties. They should not be used as the sole basis for critical climate-related decisions. ClimateWins recommends further analysis, expert consultation, and validation before applying these results to policy or strategic initiatives.
